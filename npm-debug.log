@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   'C:\\Users\\wt\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'publish' ]
+2 info using npm@2.0.2
+3 info using node@v0.10.35
+4 verbose publish [ '.' ]
+5 verbose cache add [ '.', null ]
+6 verbose cache add spec="." args=[".",null]
+7 verbose parsed spec { raw: '.',
+7 verbose parsed spec   scope: null,
+7 verbose parsed spec   name: null,
+7 verbose parsed spec   rawSpec: '.',
+7 verbose parsed spec   spec: 'E:\\WTNew\\monkeyking',
+7 verbose parsed spec   type: 'local' }
+8 verbose parsed spec { raw: '.',
+8 verbose parsed spec   scope: null,
+8 verbose parsed spec   name: null,
+8 verbose parsed spec   rawSpec: '.',
+8 verbose parsed spec   spec: 'E:\\WTNew\\monkeyking',
+8 verbose parsed spec   type: 'local' }
+9 verbose stack Error: couldn't figure out how to install .
+9 verbose stack     at addNonLocal (C:\Users\wt\AppData\Roaming\npm\node_modules\npm\lib\cache.js:310:12)
+9 verbose stack     at C:\Users\wt\AppData\Roaming\npm\node_modules\npm\lib\cache.js:282:22
+9 verbose stack     at Object.oncomplete (evalmachine.<anonymous>:108:15)
+10 verbose cwd E:\WTNew\monkeyking
+11 error Windows_NT 6.2.9200
+12 error argv "node" "C:\\Users\\wt\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "publish"
+13 error node v0.10.35
+14 error npm  v2.0.2
+15 error couldn't figure out how to install .
+16 error If you need help, you may report this error at:
+16 error     <http://github.com/npm/npm/issues>
+17 verbose exit [ 1, true ]

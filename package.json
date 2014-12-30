@@ -1,0 +1,23 @@
+{
+  "name": "monkeyking",
+  "version": "1.0.0",
+  "description": "Modular front end asset pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taotaobujue/monkeyking.git"
+  },
+  "keywords": [
+    "monkeyking",
+    "asset"
+  ],
+  "author": "taotaobujue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taotaobujue/monkeyking/issues"
+  },
+  "homepage": "https://github.com/taotaobujue/monkeyking"
+}
